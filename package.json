@@ -1,0 +1,11 @@
+{
+  "name": "wasm-experiments",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.ts",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/webassembly-js-api": "0.0.1"
+  }
+}

@@ -1,0 +1,6 @@
+/target
+**/*.rs.bk
+/main.js
+/main.wasm
+/package-lock.json
+/node_modules
