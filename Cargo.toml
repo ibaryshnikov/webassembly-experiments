@@ -1,6 +1,0 @@
-[package]
-name = "wasm-experiments"
-version = "0.1.0"
-authors = ["ibaryshnikov <baryshnikov.il@gmail.com>"]
-
-[dependencies]
